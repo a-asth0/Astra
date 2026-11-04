@@ -21,6 +21,18 @@ header{
   height: 100px;
   background: #fae6e7
 }
+.title{
+  width: 40%;
+  height: 20px;
+  text-align: left;
+}
+.title a{
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+}
+  
+
+  
   
   
   
